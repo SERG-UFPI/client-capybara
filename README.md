@@ -1,6 +1,8 @@
 # client_capybara
 
-A new Flutter project.
+This tool was developed as part of an undergraduate thesis project.
+
+Download the thesis (in Portuguese): [link](https://github.com/SERG-UFPI/client-capybara/blob/master/TCC_Max_Nicolas_de_Oliveira_Lima.pdf)
 
 ## Getting Started
 
